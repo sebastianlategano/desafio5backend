@@ -1,0 +1,19 @@
+<div>
+    <div>
+        <p>Agregar productos:</p>
+    </div>
+    <div>
+        <input id="newProduct" placeholder="Producto">
+        <input id="price" placeholder="Precio">
+        <button type="submit" id="myBtn">Enviar</button>
+    </div>
+    <div>
+        <p>Lista de productos (Websocket):</p>
+    </div>
+    <div>
+        <ul id="allproducts"></ul>
+    </div>
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realtimeproducts.js" ></script>

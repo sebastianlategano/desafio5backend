@@ -1,0 +1,101 @@
+[
+	{
+		"title": "Arroz",
+		"description": "Largo fino",
+		"price": 2.5,
+		"thumbnail": "./arroz.jpg",
+		"code": "001",
+		"stock": 50,
+		"id": 1
+	},
+	{
+		"title": "Leche",
+		"description": "Descremada",
+		"price": 1.8,
+		"thumbnail": "./leche.jpg",
+		"code": "002",
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"title": "Pan",
+		"description": "Integral",
+		"price": 2,
+		"thumbnail": "./pan.jpg",
+		"code": "003",
+		"stock": 30,
+		"id": 3
+	},
+	{
+		"title": "Huevos",
+		"description": "Docena",
+		"price": 3.5,
+		"thumbnail": "./huevos.jpg",
+		"code": "004",
+		"stock": 60,
+		"id": 4
+	},
+	{
+		"title": "Fideos",
+		"description": "Tirabuzón",
+		"price": 1.5,
+		"thumbnail": "./fideos.jpg",
+		"code": "005",
+		"stock": 50,
+		"id": 5
+	},
+	{
+		"title": "Tomates enlatados",
+		"description": "Pelados",
+		"price": 1.2,
+		"thumbnail": "./tomatesenlatados.jpg",
+		"code": "007",
+		"stock": 20,
+		"id": 7
+	},
+	{
+		"title": "Yogurt",
+		"price": "2",
+		"id": 8
+	},
+	{
+		"title": "Pollo",
+		"price": "5",
+		"id": 9
+	},
+	{
+		"title": "Queso",
+		"price": "4",
+		"id": 10
+	},
+	{
+		"title": "Papa",
+		"price": "2",
+		"id": 11
+	},
+	{
+		"title": "Zanahorias",
+		"price": "777",
+		"id": 12
+	},
+	{
+		"title": "Banana",
+		"price": "100",
+		"id": 13
+	},
+	{
+		"title": "Tomate",
+		"price": "20",
+		"id": 14
+	},
+	{
+		"title": "Agua",
+		"price": "33",
+		"id": 15
+	},
+	{
+		"title": "Agua",
+		"price": "33",
+		"id": 16
+	}
+]
